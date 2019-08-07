@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Improve MPTCP with SDN"
+date:   2018-07-24
+project: true
+tag:
+- MPTCP
+- SDN
+- Resource Pooling
+comments: false
+---
+
+In this work, we propose S-MPTCP, which realizes coupling control to MPTCP connections in network based on SDN providing global network information. Leveraging collected topology information, network resources are fully explored and allocated to each connection in a fair manner a key parameter, expected throughput. According to this basic design idea, routing and load balancing modules are improved. Under S-MPTCP’s control, subflow’s throughput will stabilize around its expected throughput which is allocated by SDN controller, and meanwhile congestion can be alleviated effectively. Check out <a href="https://www.sciencedirect.com/science/article/pii/S1084804519301912">this paper</a> for more details.
