@@ -14,6 +14,6 @@ comments: false
 
 ## Submitted
 
-* [1] A first-author paper is submitted to IEEE Conference on Computer Communications (INFOCOM) 2020. To meet the requirement of double-blind submission policies of INFOCOM, we do not post the title of this paper here. If you are interested in this research, please email <a href="viper@mail.ustc.edu.cn" target="_blank">me</a> to request full-text of this paper.
+* [1] A first-author paper is submitted to IEEE Conference on Computer Communications (INFOCOM) 2020. To meet the requirement of double-blind submission policies of INFOCOM, we do not post the title of this paper here. If you are interested in this research, please email <a href="mailto:{{ site.email }}?subject=Publications">me</a> to request full-text of this paper.
 
 Visit my profile on Google Scholar: <a href="https://scholar.google.com.hk/citations?user=XCaHtRUAAAAJ&hl=zh-CN" target="_blank">Yanbing Liu</a>
