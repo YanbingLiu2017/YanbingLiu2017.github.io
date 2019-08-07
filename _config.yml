@@ -5,7 +5,7 @@ description:        "M.S. at the Department of Electronic Engineering and Inform
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/network-logo-2.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background/Tyler Lastovich 2017-06-14 11-56-27.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://yanbingliu1997.github.io
