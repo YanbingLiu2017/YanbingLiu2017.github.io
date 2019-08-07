@@ -10,7 +10,7 @@ comments: false
 
 * [2] **Yanbing Liu**, Xiaowei Qin, Tianyi Zhang, Ting Zhu, Xiaohui Chen, and Guo Wei, "Decoupled TCP Extension for VLC Hybrid Network," IEEE/OSA Journal of Optical Communications and Networking, vol. 10, no. 5, pp. 563-572, May 2018, available on <a href="https://ieeexplore.ieee.org/document/8357658" target="_blank">IEEE Xplore</a> and <a href="https://www.osapublishing.org/jocn/fulltext.cfm?uri=jocn-10-5-563&id=385724" target="_blank">OSA Publishing</a>.
 
-* [3] Yanbing Liu, Xiaowei Qin, Ting Zhu, Xiaohui Chen, and GuoWei, "BESS: BDP Estimation Based Slow Start Algorithm for MPTCP in mmWave-LTE Networks," 2018 IEEE 88th Vehicular Technology Conference (VTC Fall), 2018, available on <a href="https://ieeexplore.ieee.org/document/8690815" target="_blank">IEEE Xplore</a>.
+* [3] **Yanbing Liu**, Xiaowei Qin, Ting Zhu, Xiaohui Chen, and GuoWei, "BESS: BDP Estimation Based Slow Start Algorithm for MPTCP in mmWave-LTE Networks," 2018 IEEE 88th Vehicular Technology Conference (VTC Fall), 2018, available on <a href="https://ieeexplore.ieee.org/document/8690815" target="_blank">IEEE Xplore</a>.
 
 ## Submitted
 
