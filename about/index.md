@@ -9,7 +9,7 @@ comments: false
 # Hello!
 * I’m Yanbing Liu, a pre-final year postgraduate student at University of Science and Technology of China (USTC). My supervisor is Prof. Guo Wei. My research involves <b>computer networks</b>, and a particular attention is given to multipath transmission and network potocol design. <a href="/assets/pdf/Resume_YanbingLiu_One_Page_Public.pdf">This is my CV</a>.
 
-* Up to now, I have completed several projects in computer networks field, and <b>4</b> first-author papers are accepted or submitted. Check the <a href="/projects">projects section</a> and the <a href="/publications">publications section</a> to know more about my researches.
+* Up to now, I have completed several projects in computer networks field, and <b>4 first-author papers</b> are accepted or submitted. Check the <a href="/projects">projects section</a> and the <a href="/publications">publications section</a> to know more about my researches.
 
 * Because my researches focus on network stack, I am familiar with programming of network stack in <b>Linux kernel</b>. Moreover, some softwares related to network are often used in my researches, including NS-3, Mininet and Floodlight.
 
