@@ -14,3 +14,5 @@ comments: false
 * Because my research focus on network stack, I am familiar with programming of network stack in <b>Linux kernel</b>. Moreover, some softwares related to network are often used in my research, including NS-3, Mininet and Floodlight.
 
 * I received the National Scholarship for graduate students (<b>Top 1%</b>) in October 2018.
+
+* I will join Prof. <a href="https://www.cs.purdue.edu/homes/chunyi/" target="_blank">Chunyi Peng</a>'s group at <a href="https://www.cs.purdue.edu/" target="_blank">CS@Purdue</a> as a Ph.D. student from 2020 Fall!
