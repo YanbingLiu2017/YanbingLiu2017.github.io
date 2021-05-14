@@ -2,17 +2,13 @@
 layout: page
 title: About Yanbing Liu
 tags: [about, Yanbing Liu]
-date: 2019-08-07
+date: 2021-05-15
 comments: false
 ---
 
 # Hello!
-* I’m Yanbing Liu, a final year postgraduate student at University of Science and Technology of China (USTC). My supervisor is Prof. Guo Wei. My research involves <b>computer networks</b>, and a particular attention is given to multipath transmission and network potocol design. <a href="/assets/pdf/CV_YanbingLiu_Public.pdf">This is my CV</a>.
+* I’m Yanbing Liu, a first year Ph.D. student at <a href="https://www.cs.purdue.edu/" target="_blank">CS@Purdue</a>. My supervisor is Prof. <a href="https://www.cs.purdue.edu/homes/chunyi/" target="_blank">Chunyi Peng</a>.
 
-* Up to now, I have completed several projects in computer networks field, and <b>4 first-author papers</b> are accepted or submitted. Check the <a href="/projects">projects section</a> and the <a href="/publications">publications section</a> to know more about my research.
+* Before I joined CS@Purdue, I received my master and bachelor degrees from <a href="https://eeis.ustc.edu.cn/" target="_blank">EEIS@USTC</a>.
 
-* Because my research focus on network stack, I am familiar with programming of network stack in <b>Linux kernel</b>. Moreover, some softwares related to network are often used in my research, including NS-3, Mininet and Floodlight.
-
-* I received the National Scholarship for graduate students (<b>Top 1%</b>) in October 2018.
-
-* I will join Prof. <a href="https://www.cs.purdue.edu/homes/chunyi/" target="_blank">Chunyi Peng</a>'s group at <a href="https://www.cs.purdue.edu/" target="_blank">CS@Purdue</a> as a Ph.D. student from 2020 Fall!
+* My research involves <b>mobile networking</b>, and a particular attention is given to mobility support of cellular networks.
