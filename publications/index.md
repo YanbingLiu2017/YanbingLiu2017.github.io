@@ -12,8 +12,4 @@ comments: false
 
 * [3] **Yanbing Liu**, Xiaowei Qin, Ting Zhu, Xiaohui Chen, and Guo Wei, "BESS: BDP Estimation Based Slow Start Algorithm for MPTCP in mmWave-LTE Networks," 2018 IEEE 88th Vehicular Technology Conference (VTC Fall), 2018, available on <a href="https://ieeexplore.ieee.org/document/8690815" target="_blank">IEEE Xplore</a>.
 
-## Submitted
-
-* [1] A first-author paper is submitted to IEEE Conference on Computer Communications (INFOCOM) 2020. To meet the requirement of double-blind submission policies of INFOCOM, we do not post the title of this paper here. If you are interested in this research, please <a href="mailto:{{ site.email }}?subject=Publications">email me</a> to request full-text of this paper.
-
 Visit my profile on Google Scholar: <a href="https://scholar.google.com.hk/citations?user=XCaHtRUAAAAJ&hl=zh-CN" target="_blank">Yanbing Liu</a>
