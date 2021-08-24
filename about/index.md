@@ -7,7 +7,7 @@ comments: false
 ---
 
 # Hello!
-* I’m Yanbing Liu, a first year Ph.D. student at <a href="https://www.cs.purdue.edu/" target="_blank">CS@Purdue</a>. My supervisor is Prof. <a href="https://www.cs.purdue.edu/homes/chunyi/" target="_blank">Chunyi Peng</a>.
+* I’m Yanbing Liu, a second year Ph.D. student at <a href="https://www.cs.purdue.edu/" target="_blank">CS@Purdue</a>. My supervisor is Prof. <a href="https://www.cs.purdue.edu/homes/chunyi/" target="_blank">Chunyi Peng</a>.
 
 * Before I joined CS@Purdue, I received my master and bachelor degrees from <a href="https://eeis.ustc.edu.cn/" target="_blank">EEIS@USTC</a>.
 
