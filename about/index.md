@@ -12,5 +12,3 @@ comments: false
 * Before I joined CS@Purdue, I received my master and bachelor degrees from <a href="https://eeis.ustc.edu.cn/" target="_blank">EEIS@USTC</a>.
 
 * My research involves <b>mobile networking</b>, and particular attention is given to 5G/6G network measurement and design.
-
-* <a href="/assets/pdf/Resume_YanbingLiu_Intern.pdf">This is my CV</a>.
